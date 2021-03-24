@@ -1,4 +1,4 @@
-from section6.resources.user import UserModel
+from resources.user import UserModel
 
 
 def authenticate(username, password):
